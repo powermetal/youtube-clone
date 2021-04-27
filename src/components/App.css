@@ -1,0 +1,28 @@
+.app{
+    width: 80vw;
+    height: auto;
+    margin: 10px auto;
+}
+
+.app__searchBar {
+    margin-bottom: 20px;
+}
+
+.app__content {
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+
+.app__video{
+    width: 60vw;
+}
+
+.app__video .MuiDivider-root {
+    background-color: rgb(0 0 0 / 20%);
+    margin: 10px 0;
+}
+
+.app__videoData {
+    margin-top: 15px;
+}

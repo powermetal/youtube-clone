@@ -1,0 +1,27 @@
+.searchResults {
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.searchResults:hover {
+    background-color: #f6f6f6;
+    cursor: pointer;
+}
+
+.searchResults img {
+    max-width: 30%;
+    height: auto;
+}
+
+.searchResults__resultData {
+    width: 33%;
+    margin-left: 10px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.searchResults__resultData h3 {
+    display: inline;
+}

@@ -1,0 +1,18 @@
+.videoTitle__stats{
+    display: flex;
+    justify-content: space-between;
+}
+
+.videoTitle__actions {
+    display: flex;
+    color: #606060;
+}
+
+.videoTitle__actions > p {
+    padding: 3px 7px;
+    font-size: 14px;
+}
+
+.videoTitle__actions > .MuiSvgIcon-root {
+
+}

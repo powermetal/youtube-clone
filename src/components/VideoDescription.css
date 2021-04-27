@@ -1,0 +1,33 @@
+.videoDescription {
+    margin-top: 15px;
+}
+
+.videoDescription__uploaderData {
+    display: flex;
+}
+.videoDescription__uploaderData p:first-child {
+    font-weight: bold;
+}
+
+.MuiAvatar-root {
+    margin-right: 10px;
+}
+
+
+.videoDescription__userData {
+    margin-top: 4px;
+}
+
+.videoDescription__subButton {
+    border-radius: 4px;
+    border: 0;
+    margin-left: 30px;
+    color: white;
+    background-color: firebrick;
+    height: 40px;
+    font-weight: bold;
+}
+
+.videoDescription__description {
+    margin-top: 15px;
+}
